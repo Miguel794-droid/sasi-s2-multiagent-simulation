@@ -35,3 +35,15 @@ Distribuido bajo la Licencia MIT. Ver [LICENSE](LICENSE) para más información.
 ## 👤 Desarrollado por
 Miguel Saavedra - [Twitter](https://twitter.com/Miguel794_droid) | [LinkedIn](https://www.linkedin.com/in/miguel-saavedra-vado-64227a37b)
 Desde Santa Teresa, Carazo, Nicaragua 🇳🇮
+
+
+## ▶️ Ejecutar localmente
+```bash
+git clone https://github.com/Miguel794-droid/sasi-s2-multiagent-simulation.git
+cd sasi-s2-multiagent-simulation
+pip install -r requirements.txt
+python sasi_s2_simulation.py
+```
+
+## 📄 Licencia
+Distribuido bajo la Licencia MIT.
