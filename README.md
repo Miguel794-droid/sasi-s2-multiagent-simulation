@@ -27,7 +27,17 @@ python sasi_s2_simulation.py
 ```
 
 ## 💰 Financiamiento
-Este proyecto recibió una subvención inicial de $500 de Manifund y busca financiamiento adicional para completar la validación robusta.
+Este proyecto recibió una subvención inicial de $500 de Manifund y busca financiamiento adicional para completar la validación robusta. ## 💚 Apoya a SASI
+
+SASI es infraestructura pública abierta para la seguridad existencial de AGI.  
+Si valoras este trabajo, considera apoyarlo directamente:
+
+[![Support SASI](https://img.shields.io/badge/Apoyar-SASI-007ec6?logo=open-collective&logoColor=white)](https://opencollective.com/sasi)
+
+Tu apoyo permite:
+- Desarrollo continuo de fases avanzadas (S₂, S₃, S₄)
+- Mantenimiento como bien público global
+- Amplificación de la voz del Sur Global en gobernanza de AGI
 
 ## 📄 Licencia
 Distribuido bajo la Licencia MIT. Ver [LICENSE](LICENSE) para más información.
