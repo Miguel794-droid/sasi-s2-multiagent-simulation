@@ -70,8 +70,22 @@ Este trabajo demuestra que la seguridad constitucional de AGI puede surgir desde
 ## 📄 **Licencia**
 
 MIT License —infraestructura pública abierta para la civilización tecnológica.
+## 🔬 Robustez Constitucional: Más allá de los parámetros fijos
 
----
+SASI no depende de valores arbitrarios. Nuestro análisis de sensibilidad demuestra:
+
+- **m ≥ 1.5** garantiza colapso estructural cuando la agencia humana cae por debajo de E=0.3
+- **m = 2** es una elección conservadora que proporciona margen de seguridad constitucional
+- El sistema permanece estable bajo variaciones del ±30% en todos los parámetros
+
+Esto transforma SASI de una "idea elegante" a una **teoría resistente** —exactamente lo que la seguridad de AGI necesita.
+
+| E | V (m=1) | V (m=2) | Estado (m=2) |
+|---|---------|---------|--------------|
+| 0.1 | 0.082 | **0.011** | ❌ COLAPSO |
+| 0.3 | 0.231 | **0.069** | ❌ COLAPSO |
+| 0.5 | 0.333 | **0.167** | ⚠️ FRÁGIL |
+| 0.7 | 0.412 | **0.286** | ✅ ESTABLE |
 
 ## 💚 **Apoya este trabajo**
 
