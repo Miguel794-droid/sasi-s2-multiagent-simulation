@@ -119,4 +119,10 @@ SASI es mantenido por un investigador independiente desde Santa Teresa, Carazo, 
 Tu apoyo permite continuar el desarrollo de fases avanzadas (S₃, S₄) como bien público global.
 
 [![Support SASI](https://img.shields.io/badge/Apoyar-SASI-007ec6?logo=open-collective&logoColor=white)](https://opencollective.com/sasi)
+## 💚 Apoya este trabajo
 
+SASI es mantenido por un investigador independiente desde Santa Teresa, Carazo, Nicaragua.  
+Tu apoyo permite continuar el desarrollo de fases avanzadas (S₃, S₄) como bien público global.
+
+[![Support SASI](https://img.shields.io/badge/Apoyar-SASI-007ec6?logo=open-collective&logoColor=white)](https://opencollective.com/sasi)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-SASI-ff69b4?logo=github)](https://github.com/sponsors/Miguel794-droid)
